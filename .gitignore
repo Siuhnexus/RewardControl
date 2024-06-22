@@ -1,0 +1,8 @@
+# Thunderstore CLI build output
+build/
+
+# Whatever this is
+manifest.json
+
+.vscode/*
+mklink.bat
