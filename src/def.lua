@@ -1,4 +1,4 @@
----@meta AuthorName-ModName
+---@meta Siuhnexus-RewardControl
 local public = {}
 
 -- document whatever you made publicly available to other plugins here
